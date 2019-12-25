@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Launch The Chrome Browser]]>
+    </line>
+    <line>
+      <![CDATA[ TripAdvisor Landing Page]]>
+    </line>
+    <line>
+      <![CDATA[Close The  Browser]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="140690" started-at="2019-12-25T14:28:08Z" finished-at="2019-12-25T14:30:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="140690" started-at="2019-12-25T14:28:08Z" finished-at="2019-12-25T14:30:29Z">
+      <class name="com.dues.Test.TripAdvisorWriteReviewTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.dues.Test.TripAdvisorWriteReviewTest@548e7350]" name="launchBrowser" is-config="true" duration-ms="41465" started-at="2019-12-25T14:28:08Z" finished-at="2019-12-25T14:28:49Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Launch The Chrome Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.dues.Test.TripAdvisorWriteReviewTest@548e7350]" name="login" is-config="true" duration-ms="58338" started-at="2019-12-25T14:28:49Z" finished-at="2019-12-25T14:29:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[ TripAdvisor Landing Page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="_TripAdvisorWriteReviewTest()[pri:0, instance:com.dues.Test.TripAdvisorWriteReviewTest@548e7350]" name="_TripAdvisorWriteReviewTest" duration-ms="38788" started-at="2019-12-25T14:29:48Z" finished-at="2019-12-25T14:30:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- _TripAdvisorWriteReviewTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.dues.Test.TripAdvisorWriteReviewTest@548e7350]" name="closeBrowser" is-config="true" duration-ms="2015" started-at="2019-12-25T14:30:26Z" finished-at="2019-12-25T14:30:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Close The  Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.dues.Test.TripAdvisorWriteReviewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

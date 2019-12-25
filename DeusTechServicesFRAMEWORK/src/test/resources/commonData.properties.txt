@@ -1,0 +1,5 @@
+amazonUrl https://www.amazon.in/
+flipkartUrl https://www.flipkart.com/
+tripadvisorUrl https://www.tripadvisor.in/ 
+browser chrome
+
